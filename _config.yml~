@@ -9,7 +9,7 @@ author:
 
 # Build settings
 #baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
-baseurl: "/"
+baseurl: "/emerald"
 url: "/"
 markdown: kramdown
 source: .
