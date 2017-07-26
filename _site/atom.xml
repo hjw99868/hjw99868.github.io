@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Emerald | A simple Jekyll blog</title>
+ <title>hjw99868 | Jiawei Hou</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-07-27T01:28:39+08:00</updated>
+ <updated>2017-07-27T01:35:21+08:00</updated>
  <author>
-   <name>Jacopo Rabolini</name>
-   <uri>http://www.jacoporabolini.com</uri>
-   <email>hello@jacoporabolini.com</email>
+   <name>Jiawei Hou</name>
+   <uri>https://hjw99868.github.io</uri>
+   <email>hjw99868@163.com</email>
  </author>
 
  
