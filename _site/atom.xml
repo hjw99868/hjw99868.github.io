@@ -4,7 +4,7 @@
  <title>Emerald | A simple Jekyll blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-07-26T22:05:24+08:00</updated>
+ <updated>2017-07-27T01:19:44+08:00</updated>
  <author>
    <name>Jacopo Rabolini</name>
    <uri>http://www.jacoporabolini.com</uri>
@@ -14,11 +14,35 @@
  
 
  <entry>
+   <title>my test1</title>
+   <link href="http://localhost:4000/mytest"/>
+   <id>http://localhost:4000/mytest</id>
+   <updated>2017-07-27T00:00:00+08:00</updated>
+   <content type="html">&lt;h1 id=&quot;this-is-h1&quot;&gt;this is h1&lt;/h1&gt;
+&lt;h2 id=&quot;this-is-h2&quot;&gt;this is h2&lt;/h2&gt;
+&lt;h3 id=&quot;this-is-h3&quot;&gt;this is h3&lt;/h3&gt;
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>test2 in 2016.6.9</title>
+   <link href="http://localhost:4000/mytest2"/>
+   <id>http://localhost:4000/mytest2</id>
+   <updated>2016-06-09T00:00:00+08:00</updated>
+   <content type="html">&lt;h3 id=&quot;now-is-201669&quot;&gt;now is 2016.6.9&lt;/h3&gt;
+</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Typograhy example</title>
    <link href="http://localhost:4000/typography"/>
    <id>http://localhost:4000/typography</id>
    <updated>2015-03-19T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet debitis ipsa recusandae possimus minima...</content>
  </entry>
 
  
