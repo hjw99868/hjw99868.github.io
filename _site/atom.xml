@@ -4,7 +4,7 @@
  <title>Emerald | A simple Jekyll blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-07-26T22:02:56+08:00</updated>
+ <updated>2017-07-26T22:05:24+08:00</updated>
  <author>
    <name>Jacopo Rabolini</name>
    <uri>http://www.jacoporabolini.com</uri>
@@ -87,26 +87,6 @@
    <title>Example 3</title>
    <link href="http://localhost:4000/example-3"/>
    <id>http://localhost:4000/example-3</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 2</title>
-   <link href="http://localhost:4000/example-2"/>
-   <id>http://localhost:4000/example-2</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 1</title>
-   <link href="http://localhost:4000/example-1"/>
-   <id>http://localhost:4000/example-1</id>
    <updated>2015-02-15T00:00:00+08:00</updated>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
