@@ -10,6 +10,7 @@ author:
 # Build settings
 baseurl: ""
 url: ""
+#logo: "/img/favico.png"
 markdown: kramdown
 source: .
 destination: ./_site
@@ -30,10 +31,13 @@ defaults:
 plugins:
   - jekyll-paginate
 
-# Custom variables
-# version: "1.1.0"
-
 # Options
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+#protocols:
+#    fb_image: "/img/favicon.png"
+#    fb_image_width: 600
+#    fb_image_height: 600
+#    fb_image_type: "image/png"
