@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<head>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon.png">
+                                 <link rel="shortcut icon" href="img/favicon.ico">
+</head>
+
+<article id="post-page">
+	<h2>{{ page.title }}</h2>		
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<div class="content">
+
+		{{ content }}
+		
+	</div>
+</article>
+

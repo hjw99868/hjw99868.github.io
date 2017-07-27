@@ -50,7 +50,8 @@
               <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-item">{{ page }}</a>
             {% endif %}
           {% endfor %}
-
+	    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon.png">
+            <link rel="shortcut icon" href="img/favicon.ico">
           {% if paginator.next_page %}
             <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&raquo;</a>
           {% else %}
