@@ -8,7 +8,7 @@ author:
   url: "https://hjw99868.github.io"
 
 # Build settings
-baseurl: ""
+baseurl: "/"
 url: ""
 markdown: kramdown
 source: .
