@@ -4,7 +4,7 @@
  <title>hjw99868 | Jiawei Hou</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-09-05T01:19:43+08:00</updated>
+ <updated>2017-09-05T02:18:58+08:00</updated>
  <author>
    <name>Jiawei Hou</name>
    <uri>https://hjw99868.github.io</uri>
@@ -14,101 +14,31 @@
  
 
  <entry>
-   <title>Code Syntax</title>
-   <link href="http://localhost:4000/code-syntax"/>
-   <id>http://localhost:4000/code-syntax</id>
-   <updated>2015-03-01T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+   <title>Course Project</title>
+   <link href="http://localhost:4000/Course-Project"/>
+   <id>http://localhost:4000/Course Project</id>
+   <updated>2017-09-03T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt; This post shows details of the course projects. You can go to the specific website by link.&lt;/p&gt; &lt;hr /&gt; &lt;h4 id=&quot;compiler-principlejan-2017&quot;&gt;Compiler Principle(Jan 2017)&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Link: &lt;a href=&quot;https://github.com/hjw99868/tiger_compiler&quot;&gt;https://github.com/hjw99868/tiger_compiler&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Tools &amp;amp; Language: Java&lt;/li&gt; &lt;li&gt;Abstract: A compiler of “tiger language”. This project aims to build a compiler in Java. You can...</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 8</title>
-   <link href="http://localhost:4000/example-8"/>
-   <id>http://localhost:4000/example-8</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
+   <title>About Me</title>
+   <link href="http://localhost:4000/About-Me"/>
+   <id>http://localhost:4000/About Me</id>
+   <updated>2017-09-03T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt; Here is some information and experience about myself including my educational experience, my skills, my research and my contact information.&lt;/p&gt; &lt;hr /&gt; &lt;h3 id=&quot;basic-information&quot;&gt;Basic information&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Name: Jiawei Hou&lt;/li&gt; &lt;li&gt;School: Shanghai Jiao Tong University&lt;/li&gt; &lt;li&gt;Identity: An undergraduate student(2014-)&lt;/li&gt; &lt;li&gt;Major: Computer Science and Engineering&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;skill&quot;&gt;Skill&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Languages:...</content>
  </entry>
 
  
 
  <entry>
-   <title>Example 7</title>
-   <link href="http://localhost:4000/example-7"/>
-   <id>http://localhost:4000/example-7</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 6</title>
-   <link href="http://localhost:4000/example-6"/>
-   <id>http://localhost:4000/example-6</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 5</title>
-   <link href="http://localhost:4000/example-5"/>
-   <id>http://localhost:4000/example-5</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 4</title>
-   <link href="http://localhost:4000/example-4"/>
-   <id>http://localhost:4000/example-4</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 3</title>
-   <link href="http://localhost:4000/example-3"/>
-   <id>http://localhost:4000/example-3</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 2</title>
-   <link href="http://localhost:4000/example-2"/>
-   <id>http://localhost:4000/example-2</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 1</title>
-   <link href="http://localhost:4000/example-1"/>
-   <id>http://localhost:4000/example-1</id>
-   <updated>2015-02-15T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Hello World</title>
-   <link href="http://localhost:4000/hello-world"/>
-   <id>http://localhost:4000/hello-world</id>
-   <updated>2015-02-10T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem,...</content>
+   <title>Something about web crawler</title>
+   <link href="http://localhost:4000/Something-about-web-crawler"/>
+   <id>http://localhost:4000/Something about web crawler</id>
+   <updated>2017-09-02T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt; This post shows details of the some web crawler. These methods are all what I used in some project. All of them are written with python. You can go to the specific website by link.&lt;/p&gt; &lt;hr /&gt; &lt;h4 id=&quot;a-easy-crawler&quot;&gt;A easy crawler&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Link: &lt;a href=&quot;https://github.com/hjw99868/easy_spider&quot;&gt;https://github.com/hjw99868/easy_spider&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Tools &amp;amp; Language:...</content>
  </entry>
 
  

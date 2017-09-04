@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <link href="http://localhost:4000/feed.xml" type="application/rss+xml" rel="alternate" title="Zhige Li Last 10 blog posts" />
+
+  
+
+  
+    <link type="text/css" rel="stylesheet" href="/assets/light.css">
+  
+</head>
+
+<body>
+  <main role="main">
+    <div class="grid grid-centered">
+      <div class="grid-cell">
+        <nav class="header-nav reveal">
+  <a href="/" class="header-logo" title="Zhige Li">Zhige Li</a>
+  <ul class="header-links">
+    
+    
+    
+    
+      <li>
+        <a href="https://github.com/elitack" target="_blank" title="GitHub">
+          <span class="icon icon-social-github"></span>
+        </a>
+      </li>
+    
+    
+    
+    
+    
+    
+      <li>
+        <a href="mailto:lzg960702@gmail.com" title="Email">
+          <span class="icon icon-at"></span>
+        </a>
+      </li>
+    
+    
+      <li>
+        <a href="/feed.xml" target="_blank" title="RSS">
+          <span class="icon icon-social-rss"></span>
+        </a>
+      </li>
+    
+  </ul>
+</nav>
+
+        <article class="article reveal">
+          <header class="article-header">
+            <h1>Course Project</h1>
+            <p>This is a post which shows some details of the course projects. For more information please visit the corresponding website page.</p>
+            <div class="article-list-footer">
+              <span class="article-list-date">
+                May 12, 2017
+              </span>
+              <span class="article-list-divider">-</span>
+              <span class="article-list-minutes">
+                
+                
+                  2 minute read
+                
+              </span>
+              <span class="article-list-divider">-</span>
+              <div class="article-list-tags">
+                
+              </div>
+            </div>
+          </header>
+
+          <div class="article-content">
+            <h2 id="compiler-principle">Compiler Principle</h2>
+<ul>
+  <li>Time: Jan 2017</li>
+  <li>Language: c++/yacc/lex</li>
+  <li>Link: <a href="https://github.com/Elitack/Compiler">https://github.com/Elitack/Compiler</a></li>
+  <li>Function:
+    <ol>
+      <li>Implement a lexical analyzer that separates the smallc language into tokens.</li>
+      <li>Do the syntax analysis.</li>
+      <li>Complete the semantic analyzer and immediate code generation with the formation of parsing tree.</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="computer-architecture">Computer Architecture</h2>
+<ul>
+  <li>Time: Jan 2017</li>
+  <li>Language: c</li>
+  <li>Link: <a href="https://github.com/Elitack/CSArchitecture">https://github.com/Elitack/CSArchitecture</a></li>
+  <li>Function:
+    <ol>
+      <li>Write and simulate Y86 programs.</li>
+      <li>Add a new instruction.</li>
+      <li>Improve the performance of the pipelined y86 processor.</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="programming-language">Programming Language</h2>
+<ul>
+  <li>Times: Dec 2016</li>
+  <li>Language: java</li>
+  <li>Link: <a href="https://github.com/Elitack/simPL">https://github.com/Elitack/simPL</a></li>
+  <li>Function:
+Design a interpreter that can transfer the simpl language equation to the correct result.</li>
+</ul>
+
+<h2 id="engineering-practice-and-technological-innovation2b">Engineering Practice and Technological Innovation(2B)</h2>
+<ul>
+  <li>Time: June 2016</li>
+  <li>Language: c++</li>
+  <li>Link:<a href="http://eelab.sjtu.edu.cn/kc/2016-06/B06/">http://eelab.sjtu.edu.cn/kc/2016-06/B06/</a></li>
+  <li>Function:
+    <ol>
+      <li>Get the route through camera based on image recognition.</li>
+      <li>Track the dolly’s position.</li>
+      <li>Send the correct order to dolly through bluetooth to make sure the dolly’s following the trajectory.</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="engineering-practice-and-technological-innovation3c">Engineering Practice and Technological Innovation(3C)</h2>
+<ul>
+  <li>Time: Dec 2016</li>
+  <li>Language: java</li>
+  <li>Link:<a href="http://eelab.sjtu.edu.cn/kc/2016-12/C19/">http://eelab.sjtu.edu.cn/kc/2016-12/C19/</a> (Chinese Version)</li>
+  <li>Function:
+Develop an android app that achieves the following function
+    <ol>
+      <li>Video Transmission Through Wifi.</li>
+      <li>Control the dolly’s movement through button, gesture, gravity, and the voice recognition.</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="operating-system">Operating System</h2>
+<ul>
+  <li>Time: June 2016</li>
+  <li>Language: c</li>
+  <li>Function:
+    <ol>
+      <li>Write a new system call(ptree) in Linux.</li>
+      <li>Generate a new process and output its parent pid and child pid.</li>
+      <li>Use the pthread and lock to solve the classic burger buddies problem.</li>
+      <li>Change the scheduler of the process.</li>
+      <li>Modify the scheduler in kernel.</li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="computer-organization-experiment">Computer Organization Experiment</h2>
+<ul>
+  <li>Time: July 2016</li>
+  <li>Language: verilog</li>
+  <li>Function:
+Design a multi-cycled pipelined mips command processor.</li>
+</ul>
+
+          </div>
+
+</body>
+</html>

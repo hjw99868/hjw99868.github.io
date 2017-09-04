@@ -1,0 +1,38 @@
+---
+title: Course Project
+---
+<br />
+This post shows details of the course projects. You can go to the specific website by link.
+
+***
+
+#### Compiler Principle(Jan 2017)
+* Link: [https://github.com/hjw99868/tiger_compiler](https://github.com/hjw99868/tiger_compiler)
+* Tools & Language: Java
+* Abstract: A compiler of "tiger language". This project aims to build a compiler in Java. You can input a simple Java program. This compiler will output a grammar tree and assembly code.
+
+#### Software Engineer(Jan 2017)
+* Link: [https://github.com/hjw99868/movie_management_system](https://github.com/hjw99868/movie_management_system)
+* Tools & Language: Django, Scrapy, splite3, HTML/CSS, python
+* Abstract: This project aims to establish a system
+which can help people to manage movies conveniently. The back-end of the website build by Django. We use sqlite3 as the database of website. The initial data is collected by Scrapy and MySQL. This movie system has three roles and give them different authorities(Super-admins, admins and user). The system will make the management more convenient.
+
+#### Programming Language(Dec 2016)
+* Link: [https://github.com/hjw99868/simPL_project](https://github.com/hjw99868/simPL_project)
+* Tools & Language: Java
+* Abstract: An interpreter of "SimPL". Design an interpreter in Java. "SimPL" is a programming language just like Java. The interpreter will translate the program and calculate the result.
+
+#### Engineering Practice and Technological Innovation 3C(Dec 2016)
+* Link: [http://eelab.sjtu.edu.cn/kc/2016-12/C19](http://eelab.sjtu.edu.cn/kc/2016-12/C19/)
+* Tools & Language: Java and C
+* Abstract: A smart car control with cellphone. We use MSP430 and C to control the car. The codes on cellphone are achieved by Java and Android Studio. You can also control the car through gravity sensor and speech recognition. The speech recognition is implemented by iFLYTEK.
+
+#### Engineering Practice and Technological Innovation 2B(June 2016)
+* Link: [http://eelab.sjtu.edu.cn/kc/2016-06/B06](http://eelab.sjtu.edu.cn/kc/2016-06/B06/)
+* Tools & Language: Opencv and C++
+* Abstract: A smart car which progress along the route. First, get the route and track the car’s position through camera. Then, send the correct order to car through bluetooth. The car will make correct action.
+
+#### Computer Organization Experiment(April 2016)
+* Tools & Language: Verilog
+* Abstract: An emulational MIPS pipeline. This project simulate the MIPS pipeline in Verilog.
+
