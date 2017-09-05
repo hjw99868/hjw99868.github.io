@@ -4,7 +4,7 @@
  <title>hjw99868 | Jiawei Hou</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-09-05T02:18:58+08:00</updated>
+ <updated>2017-09-05T15:34:03+08:00</updated>
  <author>
    <name>Jiawei Hou</name>
    <uri>https://hjw99868.github.io</uri>
@@ -24,21 +24,21 @@
  
 
  <entry>
-   <title>About Me</title>
-   <link href="http://localhost:4000/About-Me"/>
-   <id>http://localhost:4000/About Me</id>
+   <title>Something about web crawler</title>
+   <link href="http://localhost:4000/Course-Project-(copy)"/>
+   <id>http://localhost:4000/Course Project (copy)</id>
    <updated>2017-09-03T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;&lt;br /&gt; Here is some information and experience about myself including my educational experience, my skills, my research and my contact information.&lt;/p&gt; &lt;hr /&gt; &lt;h3 id=&quot;basic-information&quot;&gt;Basic information&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Name: Jiawei Hou&lt;/li&gt; &lt;li&gt;School: Shanghai Jiao Tong University&lt;/li&gt; &lt;li&gt;Identity: An undergraduate student(2014-)&lt;/li&gt; &lt;li&gt;Major: Computer Science and Engineering&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;skill&quot;&gt;Skill&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Languages:...</content>
+   <content type="html">&lt;p&gt;&lt;br /&gt; This post shows details of the some web crawler. These methods are all what I used in some project. All of them are written with python. You can go to the specific website by link.&lt;/p&gt; &lt;hr /&gt; &lt;h4 id=&quot;a-easy-crawler&quot;&gt;A easy crawler&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Link: &lt;a href=&quot;https://github.com/hjw99868/easy_spider&quot;&gt;https://github.com/hjw99868/easy_spider&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Tools &amp;amp; Language:...</content>
  </entry>
 
  
 
  <entry>
-   <title>Something about web crawler</title>
-   <link href="http://localhost:4000/Something-about-web-crawler"/>
-   <id>http://localhost:4000/Something about web crawler</id>
-   <updated>2017-09-02T00:00:00+08:00</updated>
-   <content type="html">&lt;p&gt;&lt;br /&gt; This post shows details of the some web crawler. These methods are all what I used in some project. All of them are written with python. You can go to the specific website by link.&lt;/p&gt; &lt;hr /&gt; &lt;h4 id=&quot;a-easy-crawler&quot;&gt;A easy crawler&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Link: &lt;a href=&quot;https://github.com/hjw99868/easy_spider&quot;&gt;https://github.com/hjw99868/easy_spider&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Tools &amp;amp; Language:...</content>
+   <title>About Me</title>
+   <link href="http://localhost:4000/About-Me"/>
+   <id>http://localhost:4000/About Me</id>
+   <updated>2017-09-03T00:00:00+08:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt; Here is some information and experience about myself including my educational experience, my skills, my research and my contact information.&lt;/p&gt; &lt;hr /&gt; &lt;h3 id=&quot;basic-information&quot;&gt;Basic information&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Name: Jiawei Hou&lt;/li&gt; &lt;li&gt;School: Shanghai Jiao Tong University&lt;/li&gt; &lt;li&gt;Identity: An undergraduate student(2014-)&lt;/li&gt; &lt;li&gt;Major: Computer Science and Engineering&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;skill&quot;&gt;Skill&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Languages:...</content>
  </entry>
 
  
